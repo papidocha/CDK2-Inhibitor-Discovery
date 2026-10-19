@@ -1,0 +1,10 @@
+--- Redocking control (native ligand of 9OB3) ---
+Reference: receptor/9OB3_crystal_ligand.sdf
+Acceptance criterion: top-pose RMSD <= 2.0 A
+
+  seed 1337: top-pose RMSD 0.49 A [PASS] | best of 9 poses 0.49 A | CNNscore 0.9806066751 | Vina -9.24867 kcal/mol  (rdkit)
+  seed 2026: top-pose RMSD 1.64 A [PASS] | best of 9 poses 0.53 A | CNNscore 0.9800110459 | Vina -9.41559 kcal/mol  (rdkit)
+  seed 42: top-pose RMSD 1.64 A [PASS] | best of 9 poses 0.49 A | CNNscore 0.9813106656 | Vina -9.41817 kcal/mol  (rdkit)
+
+Mean top-pose RMSD across 3 seed(s): 1.26 +/- 0.67 A
+[PASS] Receptor preparation and box reproduce the crystal pose.

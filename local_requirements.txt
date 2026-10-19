@@ -1,0 +1,13 @@
+# Tested with Python 3.12
+biopython==1.88
+chembl_webresource_client==0.10.9
+matplotlib==3.11.1
+numpy==2.5.1
+openpyxl==3.1.5
+pandas==3.0.5
+pillow==12.3.0
+python_docx==1.2.0
+rdkit==2026.3.4
+scikit_learn==1.9.0
+scipy==1.18.0
+seaborn==0.13.2

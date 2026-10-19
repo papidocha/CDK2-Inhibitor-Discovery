@@ -1,0 +1,5 @@
+CC(Nc1ccc(C=O)cc1)=O
+O=S(Nc1ccc(C=O)cc1)(C)=O
+O=C(N)c1cc(C=O)ccc1
+O=C(NCC)Cc1ccc(C=O)cc1
+OC(c1ccc(C=O)cc1)=O

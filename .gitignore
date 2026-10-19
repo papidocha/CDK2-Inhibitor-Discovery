@@ -1,0 +1,11 @@
+# Python virtual environments and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Intermediate written by scripts/prep_receptor.py between its two stages
+03_HPC_Execution/04_GNINA_Docking/receptor/temp_clean.pdb
+
+# Re-running get_wide_gnina_results.py writes this next to the script; the
+# copy consumed by the analysis lives in 06_Correlation_Analysis/data/.
+03_HPC_Execution/04_GNINA_Docking/gnina_128_triplicates_wide.csv
